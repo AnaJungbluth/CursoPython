@@ -2,7 +2,7 @@
 
 Projetos desenvolvidos durante o curso.
 
-Link do projeto de IA, já que era muito pesado par o GitHub
+Link do projeto de IA, já que era muito pesado para o GitHub
 ```
 https://drive.google.com/drive/folders/1TvLDeIVy7ilbXmR09cPEraxxHKleiqCg?usp=sharing
 ```
